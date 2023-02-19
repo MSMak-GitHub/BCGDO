@@ -14,6 +14,7 @@ Required version of PHP: 5.5+ (tested up to 8.1.2)****
 2. Better Tools (Minimalistic design)
 3. Fast tools!
 4. (Comming Soon) Auto CP
+5. (Comming Soon) Likes and downloads set to 0
 
 ### Setup
 1) Upload the files on a webserver
