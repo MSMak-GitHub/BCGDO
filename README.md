@@ -13,7 +13,7 @@ Required version of PHP: 5.5+ (tested up to 8.1.2)****
 1. Panel! (Yeah, you can make an account for the panel in the database and change the GDPS there!)
 2. Better Tools (Minimalistic design)
 3. Fast tools!
-4. etc
+4. (Comming Soon) Auto CP
 
 ### Setup
 1) Upload the files on a webserver
